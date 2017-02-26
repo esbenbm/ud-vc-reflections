@@ -6,3 +6,8 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	
 	Difference is that files in staging area is "snapshotted", so more under control than in working directory, but not yet cleared for commit to repository. I'm not sure about the value.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+	
+	I can create my commit-message first and have as a headline for the commit and thus for the staging-area pre commit. unstaged changes can then be committed afterwards.
