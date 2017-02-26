@@ -2,4 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	the folder .git is created and probably a few config files is initialized in there. All of this lets git know that files in this folder is part of a repository.
 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
 	
+	Difference is that files in staging area is "snapshotted", so more under control than in working directory, but not yet cleared for commit to repository. I'm not sure about the value.
