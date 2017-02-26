@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	the folder .git is created and probably a few config files is initialized in there. All of this lets git know that files in this folder is part of a repository.
+
+	
