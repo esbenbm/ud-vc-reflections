@@ -21,3 +21,6 @@ How do the diagrams help you visualize the branch structure?
 
 	THe diagrams makes it easy to see relations between commits and which form branches together and if there are any "unreachable" commits in-between.
 	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	pro is that it takes care of simple stuff by itself, i.e. where changes are obvious additions or deletions. Con is that you could do it just as well yourself, but humans make mistakes
